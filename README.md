@@ -67,6 +67,8 @@ The list provides awesome resources about each of them.
 
 - [Bridge Robotics](https://bridgerobotics.com) - Smarter Fleet Management Solutions.
 
+- [Cogniteam](https://cogniteam.com/) - A unified way to develop, deploy, and manage robots and fleets.
+
 - [bThere.ai](https://bthere.ai) - Monitor and control your robots, from anywhere in the world.
 
 - [DriveU.auto](https://driveu.auto/) - Superior connectivity platform for robots and autonomous vehicle teleoperation.
